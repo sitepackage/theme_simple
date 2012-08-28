@@ -1,0 +1,159 @@
+
+.widgets {
+  background: url('widgets.png') no-repeat;
+}
+.buttons {
+  background: url('buttons.png') no-repeat;
+}
+
+.categories {
+    background: url('categories.png') no-repeat;
+}
+.line{
+	border-bottom:1px dotted #c1c1c1;
+}
+.center{
+	text-align:center;
+}
+#discussion .page .padding {
+	width:685px;
+	padding:25px;
+}
+.subcategory a{
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -border-radius: 5px;
+  border-radius: 5px;	
+}
+/*------------------- Font Color --------------------*/
+body,
+#header,
+#sidebar1,
+#main,
+#footer,
+#sidebar1 .topic2,
+#main #product .topic1 a,
+#main #product .topic1 a:hover,
+#footer .socials_wrapper .topic1,
+#header .nav li a,
+#discussion .listing td a{
+	color:#212121;
+}
+#sidebar1 .topic2{
+	color:#514d4d;
+}
+#sidebar1 .collection .topic2,
+#sidebar1 .nav-left .active a,
+#sidebar1 .account .logged_in em,
+#sidebar1 .account .button,
+#sidebar1 .collection a,
+#sidebar1 .collection li a,
+#collection .subcategory a,
+#sidebar1 .list li a:hover,
+#discussion .listing th,
+#cart .items th,
+#header .nav a:hover{
+	color:#fff;
+}
+#header a,
+#header li a,
+#sidebar1 a,
+#sidebar1 li a,
+#main a,
+#main li a,
+#footer a,
+#footer li a,
+#sidebar1 .account,
+#blog .details .topic2 a,
+#cart_form .fl,
+#blog .author,
+#article .author,
+#header .site_slogan,
+#discussion .breadcrumb a,
+#discussion .message a,
+#main .column .bullets small,
+#comments li .meta span,
+#footer a:hover,
+#sidebar1 .account .logged_in  li a:hover,
+#header .cart_status a:hover,
+#discussion .listing td a:hover,
+#discussion .original_post .fl{
+	color:#777;
+}
+#main .topic1,
+#frontpage .column .topic1,
+#header .logged_in li a,
+#main .column li a,
+#footer .copyright a,
+#footer .copyright a:hover{
+	color:#444;
+}
+#header a:hover,
+#header li a:hover,
+#sidebar1 a:hover,
+#sidebar1 li a:hover,
+#main a:hover,
+#main li a:hover,
+#footer a:hover,
+#footer li a:hover,
+#header .logo_wrapper .site_name,
+#blog .details .topic2 a:hover,
+#sidebar1 .stats dd,
+#collection .grid .price,
+#discussion .breadcrumb a:hover,
+#frontpage #collection .topic1,
+#header .nav2 a:hover,
+#cart .summary .total_price,
+#main .column li a:hover,
+#blog .excerpt a,
+#blog .excerpt a:hover{
+	color:#81d3f7;
+}
+#sidebar1 .account a:hover.signup,
+#collection .subcategory a:hover,
+#sidebar1 .collection a:hover,
+#sidebar1 .collection li a:hover{
+	color:#444;
+}
+/*------------------- Background Color --------------------*/
+#sidebar1 .nav-left .active a,
+#sidebar1 .account .logged_in em,
+#collection .subcategory a,
+#header .nav li a:hover,
+#sidebar1 .account fieldset a:hover.signup,
+#sidebar1 .list li a:hover,
+#sidebar1 .category_container{
+  background-color:#81d3f7;	
+}
+#discussion .listing th,
+#cart .items th{
+	background-color:#81d3f7;
+}
+#sidebar1 .collection a:hover,
+#sidebar1 .collection li a:hover{
+	background-color:#fff;
+}
+#collection .subcategory a:hover{
+  background-color:#d5ebf5;
+}
+#discussion .page .padding,
+#comments li .meta,
+#discussion .listing .hover{
+	background-color:#f1fbff;
+}
+#sidebar1 .account .button{
+	background-color:#a9a9a9;
+}
+
+/*------------------- Border Color --------------------*/
+#discussion .page .padding{
+		border:1px dotted #c3c3c3;
+}
+#discussion .listing td,
+#blog li,
+#frontpage .column li{
+	border-bottom:1px dotted #c3c3c3;
+}
+#main .bx-pager a:hover{
+	color:#fff;
+}
